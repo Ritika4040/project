@@ -1,0 +1,7 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/gallery/page": "app/gallery/page.js",
+  "/infrastructure/page": "app/infrastructure/page.js",
+  "/query/page": "app/query/page.js",
+  "/mission-vision/page": "app/mission-vision/page.js"
+}
